@@ -14,21 +14,21 @@ Sigue los pasos siguientes para echarlo a andar.
 
 1. Activa el entorno virtual
 
-´´´
+```
 source env/bin/activate
-´´´
+```
 
 1. Instala las dependencias mediante
 
-´´´
+```
 pip install -r requirements.txt
-´´´
+```
 
 1. Ejecuta Jupyterlab mediante
 
-´´´
+```
 jupyter lab
-´´´
+```
 
 1. Abre la dirección local en tu nevegador
 
